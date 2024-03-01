@@ -7,7 +7,7 @@ function Notification(props) {
 
   let statusClasses = "";
 
-  if (status === "success!") {
+  if (status === "success") {
     statusClasses = classes.success;
   }
 
